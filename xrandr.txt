@@ -1,0 +1,7 @@
+cvt 1842 1026
+xrandr --newmode "1848x1026_60.00"  157.75  1848 1968 2160 2472  1026 1029 1039 1065 -hsync +vsync
+xrandr --addmode VGA-1 1848x1026_60.00
+
+
+xrandr --output VGA-1 --brightness 0.75
+
