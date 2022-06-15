@@ -1,0 +1,2 @@
+python manage.py makemigrations shops users products core orders
+yes this works
