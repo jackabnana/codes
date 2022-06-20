@@ -1,2 +1,5 @@
 python manage.py makemigrations shops users products core orders
 yes this works
+
+\c sanjeep1
+(postgress connect user)

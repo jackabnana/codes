@@ -1,0 +1,2 @@
+python manage.py datadump users products shops core orders auth > sanjeep.json
+
